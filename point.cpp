@@ -1,5 +1,5 @@
 // Point.cpp
-#include "Point.h"
+#include "point.h"
 #include <cmath>
 
 // Default constructor
