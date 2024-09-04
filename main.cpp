@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cstdlib>  // For rand(), srand()
 #include <ctime>    // For time()
-#include "Point.h"
+#include "point.h"
 
 // Function prototypes
 Point** generateRandomPoints(int n, double minX, double maxX, double minY, double maxY);
