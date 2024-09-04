@@ -2,7 +2,7 @@
 CXX = g++
 CXXFLAGS = -Wall -std=c++11
 TARGET = point_program
-SRCS = main.cpp Point.cpp
+SRCS = main.cpp point.cpp
 OBJS = $(SRCS:.cpp=.o)
 
 # Default target
